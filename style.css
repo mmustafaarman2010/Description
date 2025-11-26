@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+
+body{
+    background-color: rgba(128, 128, 128, 0.322);
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.Box{
+    /* border: 2px solid red; */
+    width: 500px;
+    padding: 20px 25px;
+    height: 490px;
+    margin-left: 375px;
+}
+
+.Box img{
+    border: 10px solid black;
+    border-radius: 50%;
+    width: 400px;
+    margin-left: 20px;
+    /* margin-top: 50px; */
+}
+
+.Box1 .hero{
+    border: 5px solid black;
+    margin-left: 480px;
+    margin-top: 10px;
+    width: 300px;
+    padding-left: 22px;
+    border-radius: 0px 20px 0px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.hero:hover{
+    border-radius: 20px 0px 20px 0px;
+    background-color: rgba(128, 128, 128, 0.589);
+}
+
+
+
+
+
+
+/* ....................................................................................................... */
+
+
+
+
+
+
+
+
+
+
+
+.Box3{
+    /* border: 2px solid red; */
+    width: 500px;
+    padding: 20px 75px;
+    height: 400px;
+    margin-left: 385px;
+    margin-top: 0px;
+}
+
+
+
+
+.Box3 img{
+    border: 10px solid black;
+    border-radius: 50%;
+    width: 300px;
+    margin-left: 20px;
+    /* margin-top: 50px; */
+}
+
+
+
+.Box4 .zero{
+    border: 5px solid black;
+    margin-left: 410px;
+    margin-top: 30px;
+    width: 500px;
+    padding-left: 22px;
+    border-radius: 0px 20px 0px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.para{
+    line-height: 30px;
+    text-decoration: underline;
+}
+
+.zero:hover{
+    border-radius: 20px 0px 20px 0px;
+    background-color: rgba(128, 128, 128, 0.589);
+}
+
+
+.hash{
+    font-size: 50px;
+    margin-left: 430px;
+    font-family: "railway" , sans-serif;
+}
+
+.myname{
+    font-family: "railway" , sans-serif;
+    margin-top: 70px;
+    margin-left: 475px;
+    font-size: 20px;
+}
+
+
+.fathername{
+    font-family: "railway" , sans-serif;
+    margin-top: 10px;
+    margin-left: 482px;
+    font-size: 20px;
+}
+
+
+.job{
+    font-family: "railway" , sans-serif;
+    margin-top: 10px;
+    margin-left: 522px;
+    font-size: 20px;
+}
+
+.school{
+    font-family: "railway" , sans-serif;
+    margin-top: 10px;
+    margin-left: 445px;
+    font-size: 20px;
+}
+
+.want{
+    font-family: "railway" , sans-serif;
+    margin-top: 10px;
+    margin-left: 485px;
+    font-size: 20px;
+}
+
+.config{
+    margin-left: 550px;
+    margin-top: 70px;
+}
